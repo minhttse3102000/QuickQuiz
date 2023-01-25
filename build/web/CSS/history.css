@@ -1,0 +1,38 @@
+body{
+    background-color: #6BC4B2;
+}
+h1{
+    margin-left: 29%;
+}
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+.quiz{
+    float: right;
+    margin-right: 150px;
+}
+.bootstrap-iso{
+    background-color: #6BC4B2;
+    margin-bottom: 50px;
+
+}
+.container-fluid{
+    width: 100%
+}
+.bootstrap-iso .col-sm-6 {
+    width: 100%;
+}
+.row{
+    width: 100%
+}
+
+.main-layout{
+    margin-left: 31%;
+}
+table{
+   margin-left: 31%;
+}
+h3{
+    margin-left: 35%;
+}
